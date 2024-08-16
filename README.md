@@ -1,7 +1,7 @@
 # AIML-2025
 #Badavathsarayu
 # Artificial Intelligence And Machine Learning Lab Instruction Sheets
-1. [Lab 01]():Introduction to Python Libraries-Numpy
+1. [Lab 01](https://github.com/Badavathsarayu/AIML-2025/blob/main/AIML_A1%20(1).pdf):Introduction to Python Libraries-Numpy
 2. [Lab 02]():Introduction to Python Libraries-Numpy
 3. [Lab 03](https://github.com/Badavathsarayu/AIML-2025/blob/main/AIML_A3%20(1).pdf):Introduction to Python Libraries-Numpy
 4. [Lab 04]():Introduction to Python Libraries-Numpy
