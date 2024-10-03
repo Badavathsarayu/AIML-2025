@@ -12,7 +12,7 @@
 9. [Lab 09]():Introduction to Python Libraries-Numpy
 10. [Lab 10]():Introduction to Python Libraries-Numpy
 
-# Artificial Intelligence And Machine Learning Lab Instruction Sheets
+# Artificial Intelligence And Machine Learning Labs code notebooks
 1. [Lab 01]():Introduction to Python Libraries-Numpy
 2. [Lab 02]():Introduction to Python Libraries-Numpy
 3. [Lab 03]():Introduction to Python Libraries-Numpy
